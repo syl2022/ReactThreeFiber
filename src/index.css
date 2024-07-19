@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.threejs-bg{
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('landscape.png');
+}
